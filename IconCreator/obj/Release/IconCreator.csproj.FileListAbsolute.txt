@@ -1,0 +1,7 @@
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\bin\Release\IconCreator.exe.config
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\bin\Release\IconCreator.exe
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\bin\Release\IconCreator.pdb
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\obj\Release\IconCreator.csprojAssemblyReference.cache
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\obj\Release\IconCreator.csproj.CoreCompileInputs.cache
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\obj\Release\IconCreator.exe
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\obj\Release\IconCreator.pdb

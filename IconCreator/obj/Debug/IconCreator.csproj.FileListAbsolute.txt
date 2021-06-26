@@ -1,0 +1,14 @@
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\bin\Debug\IconCreator.exe.config
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\bin\Debug\IconCreator.exe
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\bin\Debug\IconCreator.pdb
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\obj\Debug\IconCreator.csproj.CoreCompileInputs.cache
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\obj\Debug\IconCreator.exe
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\obj\Debug\IconCreator.pdb
+D:\WhoKnows\Courses\Applications\BusinessAnalyst\IconCreator\obj\Debug\IconCreator.csprojAssemblyReference.cache
+D:\WhoKnows\Courses\Applications\IconCreator\IconCreator\bin\Debug\IconCreator.exe.config
+D:\WhoKnows\Courses\Applications\IconCreator\IconCreator\bin\Debug\IconCreator.exe
+D:\WhoKnows\Courses\Applications\IconCreator\IconCreator\bin\Debug\IconCreator.pdb
+D:\WhoKnows\Courses\Applications\IconCreator\IconCreator\obj\Debug\IconCreator.csprojAssemblyReference.cache
+D:\WhoKnows\Courses\Applications\IconCreator\IconCreator\obj\Debug\IconCreator.csproj.CoreCompileInputs.cache
+D:\WhoKnows\Courses\Applications\IconCreator\IconCreator\obj\Debug\IconCreator.exe
+D:\WhoKnows\Courses\Applications\IconCreator\IconCreator\obj\Debug\IconCreator.pdb
